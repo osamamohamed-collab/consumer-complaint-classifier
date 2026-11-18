@@ -1,0 +1,11 @@
+{
+    "classes": [
+        "credit_card",
+        "credit_reporting",
+        "debt_collection",
+        "mortgages_and_loans",
+        "retail_banking"
+    ],
+    "max_len": 200,
+    "type": "transformer"
+}
